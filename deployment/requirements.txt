@@ -1,0 +1,12 @@
+# Berisi daftar library yang kita butuhkan
+
+streamlit==1.19.0
+pandas==1.4.4
+seaborn==0.11.2
+matplotlib==3.5.2
+numpy==1.23.5
+scikit-learn==1.0.2
+plotly==5.9.0
+tensorflow-cpu==2.12.0
+protobuf==3.20.3
+nltk
